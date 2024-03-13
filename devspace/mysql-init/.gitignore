@@ -1,0 +1,9 @@
+# All files to no track
+
+# Env vars
+.env
+
+# Exclude all files in the datas but not datas himself
+datas/*
+!/datas/.ok
+!/datas/.gitkeep

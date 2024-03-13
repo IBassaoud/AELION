@@ -1,0 +1,7 @@
+# Node mdoules packges
+node_modules
+
+#All js files
+*.js
+
+coverage

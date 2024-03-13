@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Portfolio-v2.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/T1-FoodApp/FoodApp-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/T1-FoodApp/FoodApp-front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-init" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js-formulaire" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js-init" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myownstock-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myownstock-frontend-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myownstock-gradle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sql-cities" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vue-init/app-test" vcs="Git" />
+  </component>
+</project>

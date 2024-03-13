@@ -1,0 +1,23 @@
+{
+  "name": "ts-init",
+  "version": "1.0.0",
+  "description": "Initiation to Typescript",
+  "main": "src/main.ts",
+  "scripts": {
+    "run:dev": "tsc src/main.ts && node src/main",
+    "test": "jest ",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "TS",
+    "Typescript"
+  ],
+  "author": "Ismail BASSAOUD <ismail.bassaoud@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

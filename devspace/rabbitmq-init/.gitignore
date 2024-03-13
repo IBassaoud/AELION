@@ -1,0 +1,3 @@
+.conf
+!.conf/rabbitmq/data/.gitkeep
+!.conf/rabbitmq/log/.gitkeep
